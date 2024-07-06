@@ -1,10 +1,10 @@
 # Complemento-Flutter
 ### Datos
 
-**Nombre:** Alma Yesenia Martínez Aldavera  
-**Grupo:** GIDS4092  
-**Materia:** Desarrollo de Dispositivos Inteligentes  
-**Unidad:** II  
+- **Nombre:** Alma Yesenia Martínez Aldavera  
+- **Grupo:** GIDS4092  
+- **Materia:** Desarrollo de Dispositivos Inteligentes  
+- **Unidad:** II
 
 ### Actividades
 
