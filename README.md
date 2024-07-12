@@ -87,10 +87,13 @@
 ![image](https://github.com/user-attachments/assets/99cfa3cb-b484-40b5-904e-ffba017a7b16)
 
 ## Aplicación Hello World
-## Aplicación YesOrNo
+![image](https://github.com/user-attachments/assets/abef5eec-2ab4-4627-9cb1-4afcdf76c3fc)
 
- ## Repositorio del Proyecto
- [Wearable](https://github.com/rodrigovm10/wearable).
+## Aplicación YesOrNo
+![Uploading image.png…]()
+
+## Repositorio del Proyecto
+[Wearable](https://github.com/rodrigovm10/wearable)
 
 
 
