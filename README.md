@@ -61,9 +61,36 @@
 ![image](https://github.com/user-attachments/assets/b9f3c7f0-131d-46f8-bb8c-9e85ab57e974)
 
 ### Actividad 9. **Abstract class**. 0.25 puntos.
+![image](https://github.com/user-attachments/assets/d76d40d3-7b25-4ec5-841a-f311191f0007)
+![image](https://github.com/user-attachments/assets/3bd08ea5-c57a-4523-928e-9f13a28de6b4)
 
 ### Actividad 10. **Mixins**. 0.5 puntos.
+![image](https://github.com/user-attachments/assets/88b2b4f4-e883-456d-8bf3-ffd64d609df4)
+![image](https://github.com/user-attachments/assets/27196f9e-cb58-44ce-b10e-f1f5b3d587a5)
+
 ### Actividad 11. **Futures**. 0.25 puntos.
+
+![image](https://github.com/user-attachments/assets/291088c7-dd7c-4092-8c75-bd63e91d3dd4)
+![image](https://github.com/user-attachments/assets/4fdd2571-cc4b-4231-8c4b-36d8ecfadb5c)
+![image](https://github.com/user-attachments/assets/e03f6e98-1af8-4ec9-8c78-6107202af133)
+
 ### Actividad 12. **Async Await**. 0.25 puntos.
+![image](https://github.com/user-attachments/assets/5dbb90aa-aebe-435b-bb30-fd7e8de6498c)
+
 ### Actividad 13. **Try catch finally**. 0.25
+![image](https://github.com/user-attachments/assets/985c407e-5d58-42e3-9090-e8a2e87faf09)
+
+### Actividad 14 - Streams. 0.25 ptos.
+![image](https://github.com/user-attachments/assets/c4430b7d-9978-4192-8533-2e3f8a110d2d)
+
+### Actividad 15 - Streams await. 0.25 ptos.
+![image](https://github.com/user-attachments/assets/99cfa3cb-b484-40b5-904e-ffba017a7b16)
+
+## Aplicación Hello World
+## Aplicación YesOrNo
+
+ ## Repositorio del Proyecto
+ [Wearable](https://github.com/rodrigovm10/wearable).
+
+
 
