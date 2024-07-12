@@ -105,6 +105,7 @@
 ![image](https://github.com/user-attachments/assets/abef5eec-2ab4-4627-9cb1-4afcdf76c3fc)
 
 ## Aplicación YesOrNo
+![image](https://github.com/user-attachments/assets/876b542b-8ec5-4986-afd9-3e82d2fa77bd)
 
 ## Repositorio del Proyecto
 
